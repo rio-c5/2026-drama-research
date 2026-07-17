@@ -7,6 +7,12 @@ const study = lab.util.fromObject({
     {
       "type": "lab.plugins.Metadata",
       "path": undefined
+    },
+    {
+      "type": "lab.plugins.Download",
+      "filePrefix": "study",
+      "path": undefined
+    }
   ],
   "metadata": {
     "title": "",
